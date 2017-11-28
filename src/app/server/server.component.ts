@@ -6,5 +6,10 @@ import { Component } from '@angular/core';
   styleUrls: ['./server.component.css']
 })
 export class ServerComponent {
-  servername= 'webpack';
+  serverId: any = 10;
+  serverStatus: any  = 'offline';
+
+  getServerStatus() {
+    return this.serverStatus;
+  }
 }
