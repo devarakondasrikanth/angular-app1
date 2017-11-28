@@ -25,3 +25,18 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Creaitng a new component using angular CLI
+
+To create a new componet using cli use this command <br/>
+ng g c **component-name** <br/>
+ng generate component **componet-name** <br/>
+
+## Helpful commands
+
+These following commands will be helpful during the learning and development phase <br/>
+ npm install -g @angular/cli <br/>
+ ng new **project-name** <br/>
+ cd **project-name** <br/>
+ ng serve <br/>
+ npm install --save bootstrap <br/>
