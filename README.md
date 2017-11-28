@@ -28,15 +28,15 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Creaitng a new component using angular CLI
 
-To create a new componet using cli use this command 
-ng g c **component-name**
-ng generate component **componet-name**
+To create a new componet using cli use this command <br/>
+ng g c **component-name** <br/>
+ng generate component **componet-name** <br/>
 
 ## Helpful commands
 
-These following commands will be helpful during the learning and development phase
- npm install -g @angular/cli
- ng new **project-name**
- cd **project-name**
- ng serve
- npm install --save bootstrap 
+These following commands will be helpful during the learning and development phase <br/>
+ npm install -g @angular/cli <br/>
+ ng new **project-name** <br/>
+ cd **project-name** <br/>
+ ng serve <br/>
+ npm install --save bootstrap <br/>
